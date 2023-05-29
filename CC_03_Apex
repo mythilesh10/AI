@@ -57,6 +57,9 @@ public class Demo2{
 
 Again click on Debug -> Open Execute Anonymous Window and write the code.
 
+Demo2 acc = new Demo2();
+acc.UpdateOlderAccount('Rutu');
+
 
 To view the records in Salesforce 
 
